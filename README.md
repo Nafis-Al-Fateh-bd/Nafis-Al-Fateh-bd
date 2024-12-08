@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nafis-Al-Fateh-bd
-- 👀 I’m interested in Data science
+- 👀 I’m keeping all the data in this github page necessary for projects
 - 🌱 I’m currently learning Python, R, Sql, Powerbi, Excel amd many more statistical software
 - 💞️ I’m looking to collaborate on data related projects
 - 📫 How to reach me nafis.optimum@gmail.com
